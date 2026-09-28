@@ -1,5 +1,5 @@
 ## Hey! 
-My name is Jack Justus and I'm a student @ Boston University studying computer engineering. I'm also an Engineer @ Digits. 
+My name is Jack Justus and I'm a student @ Boston University studying computer engineering. I'm also an Engineer @ [Digits](https://digits.com). 
 
 Check out my website at **[jackjust.com](https://jackjust.com)**
 
