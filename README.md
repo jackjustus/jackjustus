@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey! 
+My name is Jack Justus and I'm a student @ Boston University studying computer engineering. I'm also an Engineer @ Digits. 
+
+Check out my website at jackjust.com
 
 <!--
 **jackjustus/jackjustus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
